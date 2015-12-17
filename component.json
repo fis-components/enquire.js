@@ -1,0 +1,9 @@
+{
+    "name": "enquire.js",
+    "description": "Awesome Media Queries in JavaScript",
+    "repos": "https://github.com/WickyNilliams/enquire.js.git",
+    "main": "enquire.js",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "2.1.1"
+}
